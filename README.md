@@ -40,9 +40,6 @@ This project includes **TypeORM migration** support for database schema changes.
   ```sh
   npm run migration:run
   ```
-## 📝 Blog Series
-
-This project is supported by a **multi-part blog series** that walks through the concepts and implementation of **Hexagonal Architecture in NestJS**, with a focus on **online payment integration** using the **Factory Pattern**.
 
 
 
